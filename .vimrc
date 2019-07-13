@@ -6,6 +6,7 @@ set autoindent
 set shiftwidth=2
 set softtabstop=2
 set expandtab
+set backspace=2 " Fix for old vim
 
 if has("vms")
   set nobackup
